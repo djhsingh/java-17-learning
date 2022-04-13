@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student>
+    <name>Deepak Singh Jangra</name>
+    <age>28</age>
+    <salary>90000</salary>
+</student>
+<student>
+    <name>Ajay</name>
+    <age>32</age>
+    <salary>10000</salary>
+</student>
+<student>
+    <name>Sunil</name>
+    <age>27</age>
+    <salary>30000</salary>
+</student>
+<student>
+    <name>Anil</name>
+    <age>28</age>
+    <salary>45000</salary>
+</student>
+</students>
